@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg_top">#1B2A4A</color>
+    <color name="bg_bottom">#0F172A</color>
+    <color name="accent_teal">#14B8A6</color>
+    <color name="accent_gold">#F59E0B</color>
+    <color name="btn_surface">#CC1E293B</color>
+    <color name="white">#FFFFFF</color>
+</resources>

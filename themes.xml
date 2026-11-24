@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.TalkingJan" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_teal</item>
+        <item name="colorSecondary">@color/accent_gold</item>
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:navigationBarColor">#0F172A</item>
+    </style>
+</resources>
